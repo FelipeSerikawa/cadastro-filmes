@@ -1,0 +1,16 @@
+C:\Users\Serikawa\Documents\CadastroFilmes\bin\Debug\net5.0\CadastroFilmes.exe
+C:\Users\Serikawa\Documents\CadastroFilmes\bin\Debug\net5.0\CadastroFilmes.deps.json
+C:\Users\Serikawa\Documents\CadastroFilmes\bin\Debug\net5.0\CadastroFilmes.runtimeconfig.json
+C:\Users\Serikawa\Documents\CadastroFilmes\bin\Debug\net5.0\CadastroFilmes.runtimeconfig.dev.json
+C:\Users\Serikawa\Documents\CadastroFilmes\bin\Debug\net5.0\CadastroFilmes.dll
+C:\Users\Serikawa\Documents\CadastroFilmes\bin\Debug\net5.0\ref\CadastroFilmes.dll
+C:\Users\Serikawa\Documents\CadastroFilmes\bin\Debug\net5.0\CadastroFilmes.pdb
+C:\Users\Serikawa\Documents\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.csprojAssemblyReference.cache
+C:\Users\Serikawa\Documents\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serikawa\Documents\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.AssemblyInfoInputs.cache
+C:\Users\Serikawa\Documents\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.AssemblyInfo.cs
+C:\Users\Serikawa\Documents\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.csproj.CoreCompileInputs.cache
+C:\Users\Serikawa\Documents\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.dll
+C:\Users\Serikawa\Documents\CadastroFilmes\obj\Debug\net5.0\ref\CadastroFilmes.dll
+C:\Users\Serikawa\Documents\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.pdb
+C:\Users\Serikawa\Documents\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.genruntimeconfig.cache
